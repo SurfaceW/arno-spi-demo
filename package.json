@@ -1,0 +1,19 @@
+{
+  "name": "dingtalk-im-spi",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "author": "arno",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^2.18.5"
+  },
+  "dependencies": {
+    "inversify": "^5.0.5",
+    "lodash": "^4.17.20"
+  }
+}
